@@ -6,9 +6,9 @@ class App extends Component {
     return (
       <div>
         <header>
-          <h1>StarWars</h1>
+          <h1>STARWARS</h1>
         </header>
-        <main>
+        <main className="container">
           <Home/>
         </main>
       </div>
